@@ -1,0 +1,18 @@
+/* Clase 01 - start */
+.greenText {
+  color: green !important;
+  font-weight: bold;
+}
+
+
+/* Clase 02 - selector */
+img{
+  width: 200px;
+  height: 200px;
+}
+
+hr{
+  margin-bottom: 60px;
+}
+
+/* Clase 3 - */

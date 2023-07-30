@@ -1,1 +1,1 @@
-document.querySelector('#app').innerHTML = `<h1>Hola mundo</h1>`
+document.querySelector('#app').innerHTML = `<h4>add main.js</h4>`
