@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>jQuery - Vite</title>
+
+    <link rel="stylesheet" href="/public/base/style.css">
+    <link rel="stylesheet" href="/public/base/bootstrap/css/bootstrap-5.3.1..min.css">
+    
+  </head>
+  <body>
+
+  <div class="container">
+    <h1>Lección 06 - Agregar tabla</h1>
+    <hr>
+
+      <button id="btnAgregar" class="form-control btn btn-success">Agregar</button>
+      <select id="slcNumero" class="form-select" >
+        <option selected value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+      </select>
+
+    <br><br>
+    <table id="tblEjemplo" class="table table-striped-columns table-hover">
+      <thead>
+        <tr>
+          <td>Indice</td>
+          <td>Número</td>
+          <td>Resultado</td>
+        </tr>
+      </thead>
+      <tbody id="tblBodyEjemplo">
+
+      </tbody>
+    </table>
+
+  </div>
+
+
+    <div id="app"></div>
+    <script type="module" src="/public/base/bootstrap/js/bootstrap-5.3.1.min.js"></script>
+    <script type="module" src="/main.js"></script>
+    <script type="module" src="/public/06-table-addtd/base.js" ></script>
+  </body>
+</html>
