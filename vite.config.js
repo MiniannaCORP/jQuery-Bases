@@ -8,6 +8,7 @@ export default defineConfig({
     // open: 'public/04-acordeon/index.html'
     // open: 'public/05-on/index.html'
     // open: 'public/06-table-addtd/index.html'
-    open: 'public/07-objects/index.html'
+    // open: 'public/07-objects/index.html'
+    open: 'public/08-tesla/index.html'
   }
 });
