@@ -9,6 +9,7 @@ export default defineConfig({
     // open: 'public/05-on/index.html'
     // open: 'public/06-table-addtd/index.html'
     // open: 'public/07-objects/index.html'
-    open: 'public/08-tesla/index.html'
+    // open: 'public/08-tesla/index.html'
+    open: 'public/09-attribute/index.html'
   }
 });
