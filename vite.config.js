@@ -11,6 +11,7 @@ export default defineConfig({
     // open: 'public/07-objects/index.html'
     // open: 'public/08-tesla/index.html'
     // open: 'public/09-attribute/index.html'
-    open: 'public/10-animation/index.html'
+    // open: 'public/10-animation/index.html'
+    open: 'public/11-ajax/index.html'
   }
 });
